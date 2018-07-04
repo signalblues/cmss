@@ -9,6 +9,7 @@
  * @created  27/09/2014
  */
 session_start();
+#ลองสร้าง
 
 if( !isset($_SESSION['refresh']) ){
 
